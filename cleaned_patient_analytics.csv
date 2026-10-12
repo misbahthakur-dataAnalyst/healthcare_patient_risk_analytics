@@ -1,0 +1,6 @@
+patient_ID,patient_name,age,clinical_dept,glucose_level,blood_pressure,risk_level
+101,misbah,95.0,biotech lab,95.0,120.0,normal
+102,arjun,35.0,zoology reseach,140.0,135.0,high risk
+103,neha,31.0,biochem clinic,110.0,130.0,normal
+104,rahul,45.0,general OPD,110.0,140.0,normal
+105, madeeha,62.0,biotech lab,180.0,140.0,high risk
